@@ -1,0 +1,391 @@
+{{Short description|Sequence that reads the same forwards and backwards}}
+{{about||the TV episode|Palindrome (Fargo)}}
+{{Redirect|Palindromes|the film|Palindromes (film)}}
+{{Use dmy dates|date=July 2022}}
+[[File:Ambigram_palindrome_ΝΙΨΟΝΑΝΟΜΗΜΑΤΑΜΗΜΟΝΑΝΟΨΙΝ_(Wash_your_sins,_not_only_your_face,_in_Greek).jpg|thumb|upright=1.3|4th-century Greek Byzantine palindrome: [[ΝΙΨΟΝ ΑΝΟΜΗΜΑΤΑ ΜΗ ΜΟΝΑΝ ΟΨΙΝ]] (''Wash Your Sins, Not Only Your Face'') on a mosaic in the {{ill|Monastery of Malevi|el|Μονή Μαλεβής Αρκαδίας}} in Greece.]]
+{{wikifunctions|Z10096}}
+A '''palindrome''' ([[Help:IPA/English|/ˈpæl.ɪn.droʊm/]]) is a term given to describe a word, a [[palindromic number|number]], a phrase, or other sequence of symbols that read the same backwards as they read forwards.  Examples include the words ''[[madam]]'' or ''[[racecar]]'', the date "[[Twosday|22/02/2022]]", or the sentence "A man, a plan, a canal, Panama".  The 19-letter [[Finnish language|Finnish]] word ''saippuakivikauppias'' (a [[soapstone]] vendor) is the longest single-word palindrome that is still in everyday use, while the 12-letter term ''tattarrattat'' (from [[James Joyce]] in ''[[Ulysses (novel)|Ulysses]]'') is the longest in the English language.
+
+The word ''palindrome'' was introduced by English poet and writer [[Henry Peacham (born 1578)|Henry Peacham]] in 1638.<ref name="p. 123">Henry Peacham, ''The Truth of our Times Revealed out of One Mans Experience'', 1638, [https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a09207.0001.001;node=A09207.0001.001:5;seq=134;submit=Go;type=simple;vid=14563;q1=palindrome;page=root;view=text p. 123] {{Webarchive|url=https://web.archive.org/web/20200714022850/https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a09207.0001.001;node=A09207.0001.001:5;seq=134;submit=Go;type=simple;vid=14563;q1=palindrome;page=root;view=text |date=14 July 2020 }} </ref>  The concept of a palindrome can be dated to the 3rd-century BC, although no examples survive. The earliest known examples are the 1st-century AD Latin [[acrostic]] [[word square]], the [[Sator Square]] (which contains both word and sentence palindromes), and the 4th-century Greek Byzantine sentence palindrome ''[[nipson anomemata me monan opsin]].''<ref name="Triantaphylides Dictionary">{{Cite web|url=http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/search.html?lq=%CE%BA%CE%B1%CF%81%CE%BA%CE%B9%CE%BD%CE%B9%CE%BA%CF%8C%CF%82&dq=|title=Combined word search for καρκινικός|last=Triantaphylides Dictionary|first=Portal for the Greek Language|website=www.greek-language.gr|access-date=6 May 2019|archive-date=6 May 2019|archive-url=https://web.archive.org/web/20190506110047/http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/search.html?lq=%CE%BA%CE%B1%CF%81%CE%BA%CE%B9%CE%BD%CE%B9%CE%BA%CF%8C%CF%82&dq=|url-status=live}}</ref><ref name="Greece 1814, p. 85">[[William Martin Leake]], ''Researches in Greece'', 1814, p. 85</ref>
+
+Palindromes are also found in music (the [[table canon]] and [[crab canon]]) and biological structures (most [[genomes]] include [[Palindromic sequence|palindromic gene sequences]]). In [[automata theory]], the set of all palindromes over an [[alphabet]] is a [[context-free language|context-free]] language, but it is not [[Regular language|regular]].
+
+==Etymology==
+The word ''palindrome'' was introduced by English poet and writer [[Henry Peacham (born 1578)|Henry Peacham]] in 1638.<ref name="p. 123"/> It is derived from the Greek roots {{lang|grc|πάλιν}} 'again' and {{lang|grc|δρóμος}} 'way, direction'; a different word is used in Greek, καρκινικός 'carcinic' ({{lit|crab-like}}) to refer to letter-by-letter reversible writing.<ref name="Triantaphylides Dictionary"/><ref name="Greece 1814, p. 85"/>
+
+== Historical development ==
+[[File:Sator Square at Oppède.jpg|thumb|right|A [[Sator square]] (in SATOR-form), on a wall in the medieval fortress town of [[Oppède|Oppède-le-Vieux]], France]]
+The ancient Greek poet [[Sotades]] (3rd-century BC) invented a form of [[Ionic meter]] called Sotadic or [[Sotadean metre|Sotadean]] verse, which is sometimes said to have been palindromic,<ref name="hbw"/> since it is sometimes possible to make a sotadean line by reversing a dactylic hexameter.<ref>Jan Kwapisz, ''The Paradigm of Simias: Essays on Poetic Eccentricity'', p. 62-68</ref><ref>Alex Preminger, ed., ''Princeton Encyclopedia of Poetry and Poetics'', 1965, {{JSTOR|j.ctt13x0qvn}}, ''s.v.'' 'Sotadean', p. 784</ref><ref>''[[The Century Dictionary]]'', 1889, ''s.v.'' 'Sotadic', p. '''5''':5780. "Sotadic verse... A palindromic verse; so named apparently from some ancient examples of Sotadean verse being palindromic."</ref>
+
+A 1st-century Latin palindrome was found as a graffito at [[Pompeii]]. This palindrome, known as the [[Sator Square]], consists of a sentence written in Latin: ''sator arepo tenet opera rotas'' 'The sower Arepo holds with effort the wheels'. It is also an [[acrostic]] where the first letters of each word form the first word, the second letters form the second word, and so forth. Hence, it can be arranged into a [[word square]] that reads in four different ways: horizontally or vertically from either top left to bottom right or bottom right to top left.  Other palindromes found at Pompeii include "Roma-Olim-Milo-Amor", which is also written as an acrostic square.<ref>{{cite journal | journal=[[Zeitschrift für Papyrologie und Epigraphik]] | url=https://www.jstor.org/stable/26603971 | first=Megan | last=O'Donald | title=The ROTAS "Wheel": Form and Content in a Pompeian Graffito | pages=77–91 | date=2018 | volume=205 | jstor=26603971 | access-date=10 September 2022 | archive-date=11 September 2022 | archive-url=https://web.archive.org/web/20220911232432/https://www.jstor.org/stable/26603971 | url-status=live }}</ref><ref name=MRS>{{cite journal | journal=[[Cryptologia]] | author-link=Rose Mary Sheldon | first=Rose Mary | last=Sheldon | url=https://indexarticles.com/reference/cryptologia/sator-rebus-an-unsolved-cryptogram-the/ | title=The Sator Rebus: An unsolved cryptogram? | pages=233–287 | doi=10.1080/0161-110391891919 | date=2003 | volume=27 | issue=3 | s2cid=218542154 | access-date=10 September 2022 | archive-date=11 September 2022 | archive-url=https://web.archive.org/web/20220911152421/https://indexarticles.com/reference/cryptologia/sator-rebus-an-unsolved-cryptogram-the/ | url-status=live }}</ref> Indeed, composing palindromes was "a pastime of Roman landed gentry".<ref>{{cite journal | last=Fishwick | first=Duncan | title=An Early Christian Cryptogram? | url=https://www.cchahistory.ca/journal/CCHA1959/Fishwick.pdf | access-date=13 October 2021 | publisher=[[University of Manitoba]] | journal=CCHA | pages=29–41 | volume=26 | date=1959 | archive-date=24 May 2022 | archive-url=https://web.archive.org/web/20220524090014/http://www.cchahistory.ca/journal/CCHA1959/Fishwick.pdf | url-status=live }}</ref>
+
+[[File:Greek palindrome on the font.jpg|thumb|''Nipson anomēmata mē monan opsin'' palindrome, on a font at [[St Martin, Ludgate]]]]
+
+[[Byzantine Empire|Byzantine]] [[baptismal font]]s were often inscribed with the 4th-century Greek palindrome, {{lang|grc|ΝΙΨΟΝ ΑΝΟΜΗΜΑΤΑ}} (or {{lang|grc|ΑΝΟΜΗΜΑ}}) {{lang|grc|ΜΗ ΜΟΝΑΝ ΟΨΙΝ}} ("''[[Nipson anomemata me monan opsin|Nipson anomēmata mē monan opsin]]''") 'Wash [your] sin(s), not only [your] face', attributed to [[Gregory of Nazianzus]];<ref name="pepp-pal">Alex Preminger, ed., ''Princeton Encyclopedia of Poetry and Poetics'', 1965, {{JSTOR|j.ctt13x0qvn}}, ''s.v.'' 'palindrome', p. 596</ref> most notably in the basilica of [[Hagia Sophia]] in [[Constantinople]]. The inscription is found on fonts in many churches in Western Europe: <!-- St. Stephen d'Egres, [[Paris]]; -- is this the demolished [[Saint-Étienne-des-Grès, Paris]]? Source?--> [[Orléans]] (St. Menin's Abbey); [[Dulwich College]]; [[Nottingham]] ([[St. Mary's Church, Nottingham|St. Mary's]]); [[Worlingworth]]; [[Harlow]]; [[Knapton]]; [[London]] ([[St Martin, Ludgate]]); and [[Hadleigh, Suffolk|Hadleigh (Suffolk)]].<ref name=Guinness/>
+
+A 12th-century palindrome with the same square property is the [[Hebrew language|Hebrew]] palindrome, <span class="script-hebrew" style="font-size:145%; font-family:'SBL Hebrew', David, Narkisim, 'Times New Roman', 'Ezra SIL SR', FrankRuehl, 'Microsoft Sans Serif', 'Lucida Grande'" dir="rtl">פרשנו&nbsp;רעבתן&nbsp;שבדבש&nbsp;נתבער&nbsp;ונשרף</span> ''perashnu: ra`avtan shebad'vash nitba`er venisraf''  'We explained the glutton who is in the honey was burned and incinerated', credited in 1924 to the medieval Jewish philosopher [[Abraham ibn Ezra]],<ref>{{cite web | last1= Soclof | first1= Adam | title= Jewish Wordplay | url= https://www.jta.org/2011/12/27/the-archive-blog/jewish-wordplay | website= Jewish Telegraphic Agency | access-date= 21 November 2016 | date= 28 December 2011 | archive-date= 21 November 2016 | archive-url= https://web.archive.org/web/20161121234936/http://www.jta.org/2011/12/27/the-archive-blog/jewish-wordplay | url-status= live }}</ref>{{Unreliable fringe source|date=December 2023}} and referring to the [[Halacha|halachic]] question as to whether a fly landing in honey makes the honey ''[[Kashrut|treif]]'' (non-kosher).
+
+The palindromic Latin riddle "''In girum imus nocte et consumimur igni''" 'we go in a circle at night and are consumed by fire' describes the behavior of moths. It is likely that this palindrome is from medieval rather than ancient times. The second word, borrowed from Greek, should properly be spelled ''gyrum''.
+
+In English, there are many palindrome ''words'' such as ''eye'', ''madam'', and ''deified'', but English writers generally cited Latin and Greek palindromic sentences in the early 19th century;<ref>S(ilvanus) Urban, "Classical Literature: On Macaronic Poetry", ''[[The Gentleman's Magazine]], or Monthly Intelligencer'', London, [https://books.google.com/books?id=ZfdfAAAAcAAJ&pg=PA35 '''100''':part 2:34–36 (New Series '''23''')] {{Webarchive|url=https://web.archive.org/web/20230326164822/https://books.google.com/books?id=ZfdfAAAAcAAJ&pg=PA35 |date=26 March 2023 }} (July 1830)</ref> though [[John Taylor (poet)|John Taylor]] had coined one in 1614: "Lewd did I live, &amp; evil I did dwel" (with the [[ampersand]] being something of a "fudge"<ref>Richard Lederer, ''The Word Circus: A Letter-perfect Book'', 1998, {{isbn|0877793549}}, p.54</ref>). This is generally considered the first English-language palindrome sentence and was long reputed, notably by the grammarian [[James Harris (grammarian)|James "Hermes" Harris]], to be the ''only'' one, despite many efforts to find others.<ref name="nmm">"On Palindromes"
+''[[The New Monthly Magazine]]'' [https://books.google.com/books?id=vP2YF5SEn9UC&pg=PA172 '''2''':170–173] {{Webarchive|url=https://web.archive.org/web/20230326164822/https://books.google.com/books?id=vP2YF5SEn9UC&pg=PA172 |date=26 March 2023 }} (July–December 1821)</ref><ref name="gugrof">"Ingenious Arrangement of Words", ''The Gazette of the Union, Golden Rule, and Odd Fellows' Family Companion'' [https://books.google.com/books?id=qSTnAAAAMAAJ&pg=PA30 '''9''':30 (July 8, 1848)] {{Webarchive|url=https://web.archive.org/web/20230326164823/https://books.google.com/books?id=qSTnAAAAMAAJ&pg=PA30 |date=26 March 2023 }}</ref> (Taylor had also composed two other, "rather indifferent", palindromic lines of poetry: "Deer Madam, Reed", "Deem if I meed".<ref name="hbw">H.B. Wheatley, ''Of Anagrams: A Monograph Treating of Their History from the Earliest Ages...'', London, 1862, [https://books.google.com/books?id=DcYDAAAAQAAJ&pg=PA11 p. 9-11] {{Webarchive|url=https://web.archive.org/web/20230326164823/https://books.google.com/books?id=DcYDAAAAQAAJ&pg=PA11 |date=26 March 2023 }}</ref>) Then in 1848, a certain "J.T.R." coined "Able was I ere I saw Elba", which became famous after it was (implausibly) attributed to [[Napoleon]] (alluding to his exile on Elba).<ref>"Able Was I Ere I Saw Elba", ''Quote Investigator'' [https://quoteinvestigator.com/2013/09/15/saw-elba/#note-7218-1 September 15, 2013]</ref><ref name="gugrof"/><ref>{{cite journal |title=Doings in Baltimore |journal=Gazette of the Union, Golden Rule and Odd-fellows' Family Companion |date=July 8, 1848 |volume=9 |issue=2 |page=30}}</ref> Other [[List of English palindromic phrases|well-known English palindromes]] are: "A man, a plan, a canal – Panama" (1948),<ref name="MercerPanama">By Leigh Mercer, published in ''Notes and Queries,'' 13 November 1948, according to ''The Yale Book of Quotations,'' F. R. Shapiro, ed. (2006, {{ISBN|0-300-10798-6}}).</ref> "Madam, I'm Adam" (1861),<ref>''Do you give it up?: A collection of the most amusing conundrums, riddles, etc. of the day'', London, 1861, [https://books.google.com/books?id=tcwBAAAAQAAJ&q=%22madam%20i%20%27m%20adam%22 p. 4] {{Webarchive|url=https://web.archive.org/web/20230407122904/https://books.google.com/books?id=tcwBAAAAQAAJ&q=%22madam%20i%20%27m%20adam%22 |date=7 April 2023 }}</ref> and "Never odd or even" (1930).<ref>{{Cite book |last=Pryor |first=G.H. |url=https://books.google.com/books?id=j2ZCAQAAIAAJ&q=%22never+odd+or+even%22 |title=Baltimore and Ohio Employes Magazine |date=September 1930 |publisher=Baltimore and Ohio Railroad |pages=60 |language=en |chapter=In the Realm of the Riddle}}</ref>
+
+[[File:Madam-im-adam.jpg|thumb|A cartoon using the palindrome "Madam, I'm Adam"]]
+
+== Types ==
+
+=== Characters, words, or lines ===
+{{seealso|Reversible poem}}
+The most familiar palindromes in English are character-unit palindromes, where the characters read the same backward as forward. Examples are ''civic'', ''radar'', ''level'', ''rotor'', ''kayak'', ''madam'', and ''refer''. The longest common ones are ''rotator, deified, racecar'', and ''reviver''; longer examples such as ''redivider'', ''kinnikinnik'', and ''tattarrattat'' are orders of magnitude rarer.<ref>{{Cite web |url=https://books.google.com/ngrams/graph?content=kinnikinnik%2Ctattarrattat%2Crotator%2Cdeified%2Crepaper%2Creviver%2Credivider&year_start=1800&year_end=2019&corpus=26&smoothing=3 |title=Google nGrams frequencies |access-date=29 December 2022 |archive-date=29 December 2022 |archive-url=https://web.archive.org/web/20221229212046/https://books.google.com/ngrams/graph?content=kinnikinnik,tattarrattat,rotator,deified,repaper,reviver,redivider&year_start=1800&year_end=2019&corpus=26&smoothing=3 |url-status=live }}</ref><!-- per {{WP:INDISCRIMINATE}}, please don't add further examples just because you can; these are EXAMPLES only -->
+
+There are also word-unit palindromes in which the unit of reversal is the word ("Is it crazy how saying sentences backwards creates backwards sentences saying how crazy it is?"). Word-unit palindromes were made popular in the [[Logology (linguistics)|recreational linguistics]] community by [[J. A. Lindon]] in the 1960s. Occasional examples in English were created in the 19th century. Several in French and Latin date to the [[Middle Ages]].<ref>{{cite web
+ |url          = http://www.kmjn.org/notes/word_unit_palindromes.html
+ |title        = Word-unit palindromes
+ |author       = Mark J. Nelson
+ |date         = 7 February 2012
+ |access-date  = 18 November 2012
+ |archive-date = 12 February 2013
+ |archive-url  = https://web.archive.org/web/20130212034438/http://www.kmjn.org/notes/word_unit_palindromes.html
+ |url-status   = live
+}}</ref>
+
+There are also line-unit palindromes, most often [[Palindrome poem|poems]]. These possess an initial set of lines which, precisely halfway through, is repeated in reverse order, without alteration to word order within each line, and in a way that the second half continues the "story" related in the first half in a way that makes sense, this last being key.<ref>"Never Odd Or Even, and Other Tricks Words Can Do" by O.V. Michaelsen (Sterling Publishing Company: New York), 2005 p124-7</ref>
+
+{| class="wikitable"
+|+
+Example
+!Initial order
+!Reversed order
+|-
+|{{color|crimson|We can save the world}}<br>I cannot believe that<br>{{color|navy|The world is doomed}}
+|{{color|navy|The world is doomed}}<br>I cannot believe that<br>{{color|crimson|We can save the world}}
+|}
+
+=== Sentences and phrases ===
+{{Main list|List of English palindromic phrases}}
+[[File:Ambigram_Dogma_I_am_god.png|thumb|[[Ambigram]] of the palindrome "Dogma I am God"]]
+Palindromes often consist of a sentence or phrase, e.g., "A man, a plan, a canal, Panama", "Mr. Owl ate my metal worm", 
+"Do geese see God?", or "Was it a car or a cat I saw?". Punctuation, capitalization, and spaces are usually ignored. Some, such as "Rats live on no evil star", "Live on time, emit no evil", and "Step on no pets", include the spaces.
+
+=== Names ===
+Some names are palindromes, such as the [[given name]]s Hannah, Ava, Aviva, Anna, Eve, Bob, and Otto, or the [[surname]]s Harrah, Renner, Salas, and Nenonen.
+[[Lon Nol]] (1913–1985) was Prime Minister of Cambodia. [[Nisio Isin]] is a Japanese novelist and [[manga]] writer, whose pseudonym (西尾 維新, ''Nishio Ishin'') is a palindrome when romanized using the [[Kunrei-shiki]] or the [[Nihon-shiki]] systems, and is often written as NisiOisiN to emphasize this. Some people have changed their name in order to make it palindromic (including as the actor [[Robert Trebor]] and rock-vocalist [[Ola Salo]]), while others were given a palindromic name at birth (such as the philologist [[Revilo P. Oliver]], the flamenco dancer [[Sara Baras]], the runner [[Anuța Cătună]], the creator of the [[Eden Project]] [[Tim Smit]], and the Mexican racing driver [[Noel León]]).
+
+There are also palindromic names in fictional media. "Stanley Yelnats" is the name of the main character in ''[[Holes (novel)|Holes]]'', a 1998 novel and [[Holes (film)|2003 film]]. Five of the fictional ''[[Pokémon]]'' [[List of Pokémon|species]] have palindromic names in English ([[Eevee]], Girafarig, Farigiraf, Ho-Oh, and Alomomola), as does the region Alola.
+
+The 1970s pop band [[ABBA]] is a palindrome using the starting letter of the first name of each of the four band members.
+
+=== Numbers ===
+{{Main|Palindromic number}} {{Main|Periodic continued fraction}}
+[[File:Immatriculation palyndromique.jpg|thumb|Palindromic license plate number]]
+
+The digits of a palindromic number are the same read backwards as forwards, for example, 91019; [[decimal]] representation is usually assumed. In [[recreational mathematics]], palindromic numbers with special properties are sought. For example, 191 and 313 are [[palindromic prime]]s.
+
+Whether [[Lychrel number]]s exist is an unsolved problem in mathematics about whether all numbers become palindromes when they are continuously reversed and added. For example, 56 is not a Lychrel number as 56 + 65 = 121, and 121 is a palindrome. The number 59 becomes a palindrome after three iterations: 59 + 95 = 154; 154 + 451 = 605; 605 + 506 = 1111, so 59 is not a Lychrel number either. Numbers such as 196 are thought to never become palindromes when this reversal process is carried out and are therefore suspected of being Lychrel numbers. If a number is not a Lychrel number, it is called a "delayed palindrome" (56 has a delay of 1 and 59 has a delay of 3). In January 2017 the number 1,999,291,987,030,606,810 was published in OEIS as [[oeis:A281509|A281509]], and described as "The Largest Known Most Delayed Palindrome", with a delay of 261. Several smaller 261-delay palindromes were published separately as [[oeis:A281508|A281508]].
+
+Every positive integer can be written as the sum of three palindromic numbers in every number system with base 5 or greater.<ref>{{cite arXiv|last1=Cilleruelo|first1=Javier|last2=Luca|first2=Florian|last3=Baxter|first3=Lewis|date=19 February 2016|title=Every positive integer is a sum of three palindromes|eprint=1602.06208|class=math.NT}}</ref>
+
+=== Dates ===
+A day or timestamp is a palindrome when its digits are the same when reversed. Only the digits are considered in this determination and the component separators (hyphens, slashes, and dots) are ignored. Short digits may be used as in ''[[11/11/11]] 11:11'' or long digits as in ''2 February 2020''.
+
+A notable palindrome day is this century's 2 February 2020 because this date is a palindrome regardless of the [[date format by country]] (yyyy-mm-dd, dd-mm-yyyy, or mm-dd-yyyy) used in various countries. For this reason, this date has also been termed as a "Universal Palindrome Day".<ref>{{cite web |display-authors= 0 |first= Susam |last= Pal |url= https://susam.in/blog/universal-palindrome-day/ |title= Universal Palindrome Day |date= 2 February 2020 |access-date= 3 February 2020 |archive-date= 6 August 2020 |archive-url= https://web.archive.org/web/20200806042809/https://susam.in/blog/universal-palindrome-day/ |url-status= dead }}</ref><ref>{{cite web |url= https://www.bbc.com/news/world-51349158 |title= #PalindromeDay: Geeks around the world celebrate 02/02/2020 |publisher= BBC |date= 2 February 2020 |access-date= 2 February 2020 |archive-date= 2 February 2020 |archive-url= https://web.archive.org/web/20200202183440/https://www.bbc.com/news/world-51349158 |url-status= live }}</ref> Other universal palindrome days include, almost a millennium previously, ''11/11/1111'', the future ''12/12/2121'', and in a millennium ''03/03/3030''.<ref>{{cite web |url= https://www.npr.org/2020/02/02/802015917/why-a-day-like-sunday-hasnt-been-seen-in-900-years |title= Why A Day Like Sunday Hasn't Been Seen In 900 Years |publisher= NPR |date= 2 February 2020 |first= Amy |last= Held |access-date= 3 February 2020 |archive-date= 3 February 2020 |archive-url= https://web.archive.org/web/20200203154420/https://www.npr.org/2020/02/02/802015917/why-a-day-like-sunday-hasnt-been-seen-in-900-years |url-status= live }}</ref>
+
+=== {{anchor|Phonetic}} In speech ===
+{{Listen|filename=uneslavevalsenue.ogg|title="Une Slave valse nue" played forward and backward}}
+A phonetic palindrome is a portion of [[Speech communication|speech]] that is identical or roughly identical when reversed. It can arise in context where language is played with, for example in slang dialects like ''[[verlan]]''.<ref>{{cite journal
+  | last1   = Goertz
+  | first1  = Karein K.
+  | title   = Showing Her Colors: An Afro-German Writes the Blues in Black and White
+  | journal = Callaloo
+  | date    = 2003
+  | volume  = 26
+  | issue   = 2
+  | pages   = 306–319
+  | doi     = 10.1353/cal.2003.0045
+  | jstor   = 3300855
+| s2cid = 161346520
+ }}</ref> In the [[French language]], there is the phrase ''{{wikt-lang|fr|une Slave valse nue}}'' ("a Slavic woman waltzes naked"), phonemically {{IPA|{{nowrap|/[[Help:IPA/French|yn slav vals ny]]/}}}}.<ref>{{cite book
+  | last1     = Durand
+  | first1    = Gerard
+  | title     = Palindromes en Folie
+  | date      = 2003
+  | publisher = Les Dossiers de l'Aquitaine
+  | isbn      = 978-2846220361
+  | page      = 32
+  | url       = https://books.google.com/books?id=PK_xfgb1VQYC&pg=PA32
+}}</ref>  [[John Oswald (composer)|John Oswald]] discussed his experience of phonetic palindromes while working on audio tape versions of the [[cut-up technique]] using recorded readings by [[William S. Burroughs]].<ref>{{cite web
+  | url        = http://www.pfony.com/
+  | title        = Section titled "On Burroughs and Burrows ..."
+  | publisher        = Pfony.com
+  | access-date        = 23 April 2012
+  | archive-date        = 5 February 2012
+  | archive-url        = https://web.archive.org/web/20120205201727/http://www.pfony.com/
+  | url-status        = live
+  }}</ref><ref>[http://www.pfony.com/burrows/index.html Reversible audio cut-ups of William S. Burroughs' voice] {{Webarchive|url=https://web.archive.org/web/20080313101733/http://www.pfony.com/burrows/index.html |date=13 March 2008 }}, including an acoustic palindrome in example 5 (requires [[Adobe Flash|Flash]])</ref>  A list of phonetic palindromes discussed by [[word puzzle]] columnist O.V. Michaelsen (Ove Ofteness) include "crew work"/"work crew", "dry yard", "easy", "Funny enough", "Let Bob tell", "new moon", "selfless", "Sorry, Ross", "Talk, Scott", "to boot", "top spot" (also an orthographic palindrome), "Y'all lie", "You're caught. Talk, Roy", and "You're damn mad, Roy".<ref>{{cite book
+  | last1     = Michaelsen
+  | first1    = O.V.
+  | title     = Words at play: quips, quirks and oddities
+  | date      = 1998
+  | publisher = Sterling
+}}</ref> 
+
+== Longest palindromes ==
+The longest single-word palindrome in the ''[[Oxford English Dictionary]]'' is the 12-letter [[Onomatopoeia|onomatopoeic]] word ''tattarrattat'', coined by [[James Joyce]] in ''[[Ulysses (novel)|Ulysses]]'' (1922) for a knock on the door.<ref>{{cite tweet | user=OED | number=644542911040880641 | title=The longest palindrome defined in the OED is 'tattarrattat', meaning 'a knock at the door'. It was used by James Joyce in 'Ulysses'. (2/2) | date=17 September 2015}}</ref><ref name="Joyce1982">{{cite book
+  | author    = James Joyce
+  | title     = Ulysses
+  | url       = https://books.google.com/books?id=VZdOUXIOBhwC&pg=PT434
+  | year      = 1982
+  | publisher = Editions Artisan Devereaux
+  | isbn      = 978-1-936694-38-9
+  | pages     = 434–
+  | quote     = ...I was just beginning to yawn with nerves thinking he was trying to make a fool of me when I knew his tattarrattat at the door he must ...
+}}</ref><ref name="Booty2002">{{cite book
+  | author    = O.A. Booty
+  | title     = Funny Side of English
+  | url       = https://books.google.com/books?id=PVcHzENuAnMC&pg=PT203
+  | date      = 1 January 2002
+| publisher = Pustak Mahal
+  | isbn      = 978-81-223-0799-3
+  | pages     = 203–
+  | quote     = The longest palindromic word in English has 12 letters: tattarrattat. This word, appearing in the Oxford English Dictionary, was invented by James Joyce and used in his book Ulysses (1922), and is an imitation of the sound of someone ...
+}}</ref> The ''Guinness Book of Records'' gives the title to the 11-letter ''detartrated'', the [[preterite]] and past participle of ''detartrate'', a chemical term meaning to remove [[tartrate]]s. The 9-letter word [[Rotary tiller|Rotavator]], a trademarked name for an agricultural machine, is listed in dictionaries as being the longest single-word palindrome. The 9-letter term ''redivider'' is used by some writers, but appears to be an invented or derived term; only ''redivide'' and ''redivision'' appear in the Shorter Oxford English Dictionary; the 9-letter word ''[[Malayalam]]'', a language of southern India, is also of equal length.
+
+According to [[Guinness World Records]], the [[Finnish language|Finnish]] 19-letter word ''saippuakivikauppias'' (a [[soapstone]] vendor), is the world's longest palindromic word in everyday use.<ref name=Guinness>{{cite web | title= Longest palindromic word | url= http://www.guinnessworldrecords.com/world-records/longest-palindromic-word | publisher= [[Guinness World Records]] | access-date= 12 January 2017 | archive-date= 11 December 2016 | archive-url= https://web.archive.org/web/20161211160431/http://www.guinnessworldrecords.com/world-records/longest-palindromic-word | url-status= live }}</ref>
+
+English palindrome sentences of notable length include mathematician [[Peter Hilton]]'s "Doc, note: I dissent. A fast never prevents a fatness. I diet on cod",<ref>{{cite news |date=10 November 2010 |title=Professor Peter Hilton |newspaper=[[Daily Telegraph]] |location=London |url=https://www.telegraph.co.uk/news/obituaries/science-obituaries/8124447/Professor-Peter-Hilton.html |access-date=30 April 2011 |archive-date=10 March 2011 |archive-url=https://web.archive.org/web/20110310194435/http://www.telegraph.co.uk/news/obituaries/science-obituaries/8124447/Professor-Peter-Hilton.html |url-status=live }}</ref> and Scottish poet [[Alastair Reid (poet)|Alastair Reid]]'s "T. Eliot, top bard, notes putrid tang emanating, is sad; I'd assign it a name: gnat dirt upset on drab pot toilet."<ref name="NewYorker">By Brendan Gill, published in ''Here At The New Yorker,'' (1997, {{ISBN|0-306-80810-2}}).</ref>
+
+In English, two palindromic novels have been published: ''Satire: Veritas'' by David Stephens (1980, 58,795 letters), and ''Dr Awkward & Olson in Oslo'' by Lawrence Levine (1986, 31,954 words).<ref>{{cite book
+  | author    = Eckler, Ross
+  | title     = Making the Alphabet Dance
+  | publisher = St. Martin's
+  | location  = NY
+  | year      = 1996
+  | page      = 36
+  | isbn      = 978-0-333-90334-6
+}}</ref> Another palindromic English work is a 224-word long poem, "Dammit I'm Mad", written by [[Demetri Martin]].<ref>{{cite web
+  | title       = Demetri Martin's Palindrome
+  | url         = http://classes.yale.edu/fractals/panorama/Literature/Martin/MartinPalindrome.html
+  | work        = Yale University
+  | publisher   = Mathematics Department
+  | access-date  = 17 February 2014
+| url-status     = dead
+  | archive-url  = https://web.archive.org/web/20100629014254/http://classes.yale.edu/fractals/Panorama/Literature/Martin/MartinPalindrome.html
+  | archive-date = 29 June 2010
+}}</ref> [["Weird Al" Yankovic]]'s song "[[Bob ("Weird Al" Yankovic song)|Bob]]" is composed entirely of palindromes.<ref name="Popdust">{{cite web |last1=Twardzik |first1=Tom |title=Celebrate Bob Dylan's Nobel with Weird Al |url=https://www.popdust.com/weird-al-bob-dylan-2063713015.html |website=Popdust |access-date=15 June 2021 |language=en |date=2016-10-25 |archive-date=13 August 2022 |archive-url=https://web.archive.org/web/20220813042032/https://www.popdust.com/weird-al-bob-dylan-2063713015.html |url-status=dead }}</ref>
+
+==Other occurrences==
+
+=== Classical music ===
+[[File:Berg lulu palindrome mirror point.png|thumb|Centre part of palindrome in Alban Berg's opera ''Lulu'']]
+[[Joseph Haydn]]'s [[Symphony No. 47 (Haydn)|Symphony No. 47]] in G is nicknamed "the Palindrome". In the third movement, a [[minuet]] and [[trio (music)|trio]], the second half of the minuet is the same as the first but backwards, the second half of the ensuing trio similarly reflects the first half, and then the minuet is repeated.
+
+The interlude from [[Alban Berg]]'s opera ''[[Lulu (opera)|Lulu]]'' is a palindrome,<ref name="Lulu">{{Cite web|title=Lulu|url=https://www.bl.uk/works/lulu|access-date=2021-08-07|website=[[British Library]]|language=en|archive-date=25 September 2021|archive-url=https://web.archive.org/web/20210925030200/https://www.bl.uk/works/lulu|url-status=live}}</ref> as are sections and pieces, in [[arch form]], by many other composers, including [[James Tenney]], and most famously [[Béla Bartók]]. [[George Crumb]] also used musical palindrome to text paint the [[Federico García Lorca]] poem "¿Por qué nací?", the first movement of three in his fourth book of [[Madrigal (music)|Madrigals]]. [[Igor Stravinsky]]'s final composition, ''The Owl and the Pussy Cat'', is a palindrome.<ref>A helpful list is at http://deconstructing-jim.blogspot.com/2010/03/musical-palindromes.html {{Webarchive|url=https://web.archive.org/web/20200806040510/http://deconstructing-jim.blogspot.com/2010/03/musical-palindromes.html |date=6 August 2020 }}</ref>{{Unreliable source?|date=June 2021|reason=Blogger is a blog hosting service that owns the blogspot.com domain. As a self-published source, it is considered generally unreliable and should be avoided unless the author is a subject-matter expert or the blog is used for uncontroversial self-descriptions.}}
+
+The first movement from [[Constant Lambert]]'s [[ballet]] ''[[Horoscope (ballet)|Horoscope]]'' (1938) is entitled "Palindromic Prelude". Lambert claimed that the theme was dictated to him by the ghost of [[Bernard van Dieren]], who had died in 1936.<ref>Lloyd, Stephen. ''[https://books.google.com/books?id=hMzCAwAAQBAJ&dq=%22van+dieren%22+%22lambert%22+%22palindromic%22&pg=PA258 Constant Lambert: Beyond the Rio Grande]'' (2014), p. 258</ref>
+
+British composer [[Robert Simpson (composer)|Robert Simpson]] also composed music in the palindrome or based on palindromic themes; the slow movement of his [[Symphony No. 2 (Simpson)|Symphony No. 2]] is a palindrome, as is the slow movement of his [[String Quartet No. 1 (Simpson)|String Quartet No. 1]]. His hour-long [[String Quartet No. 9 (Simpson)|String Quartet No. 9]] consists of thirty-two variations and a fugue on a palindromic theme of Haydn (from the minuet of his Symphony No. 47). All of Simpson's thirty-two variations are themselves palindromic.
+
+''Hin und Zurück'' ("There and Back": 1927) is an operatic 'sketch' (Op. 45a) in one scene by Paul Hindemith, with a German libretto by Marcellus Schiffer. It is essentially a dramatic palindrome. Through the first half, a tragedy unfolds between two lovers, involving jealousy, murder and suicide. Then, in the reversing second half, this is replayed with the lines sung in reverse order to produce a happy ending.
+
+The music of [[Anton Webern]] is often palindromic. Webern, who had studied the music of the Renaissance composer [[Heinrich Isaac]], was extremely interested in symmetries in music, be they horizontal or vertical. An example of horizontal or linear symmetry in Webern's music is the first phrase in the second movement of the [[symphony]], Op. 21. A striking example of vertical symmetry is the second movement of the [[Variations for piano (Webern)|Piano Variations]], Op. 27, in which Webern arranges every pitch of this [[dodecaphonic]] work around the central pitch axis of A4. From this, each downward reaching interval is replicated exactly in the opposite direction. For example, a G{{Music|sharp}}3—13 half-steps down from A4 is replicated as a B{{Music|flat}}5—13 half-steps above.
+
+Just as the letters of a verbal palindrome are not reversed, so are the elements of a musical palindrome usually presented in the same form in both halves. Although these elements are usually single notes, palindromes may be made using more complex elements. For example, [[Karlheinz Stockhausen]]'s composition ''[[Mixtur]]'', originally written in 1964, consists of twenty sections, called "moments", which may be [[Permutation|permuted]] in several different ways, including retrograde presentation, and two versions may be made in a single program. When the composer revised the work in 2003, he prescribed such a palindromic performance, with the twenty moments first played in a "forwards" version, and then "backwards". Each moment is a complex musical unit and is played in the same direction in each half of the program.<ref>Rudolf Frisius, ''Karlheinz Stockhausen II: Die Werke 1950–1977; Gespräch mit Karlheinz Stockhausen, "Es geht aufwärts"'' (Mainz, London, Berlin, Madrid, New York, Paris, Prague, Tokyo, Toronto: Schott Musik International, 2008): 164–65. {{ISBN|978-3-7957-0249-6}}.</ref> By contrast, [[Karel Goeyvaerts]]'s 1953 electronic composition, ''[[Nummer 5]] (met zuivere tonen)'' is an ''exact'' palindrome: not only does each event in the second half of the piece occur according to an axis of symmetry at the centre of the work, but each event itself is reversed, so that the note attacks in the first half become note decays in the second, and vice versa. It is a perfect example of Goeyvaerts's aesthetics, the perfect example of the imperfection of perfection.<ref>M[orag] J[osephine] Grant, ''Serial Music, Serial Aesthetics: Compositional Theory in Post-war Europe'' (Cambridge, U.K.; New York: Cambridge University Press, 2001): 64–65.</ref>
+
+In [[classical music]], a [[crab canon]] is a [[canon (music)|canon]] in which one line of the melody is reversed in time and pitch from the other.
+A large-scale musical palindrome covering more than one movement is called "chiastic", referring to the cross-shaped Greek letter "[[Chi (letter)|χ]]" (pronounced /ˈkaɪ/.)  This is usually a form of reference to the crucifixion; for example, the ''{{lang|la|[[Mass in B minor structure#Crucifixus|Crucifixus]]}}'' movement of Bach's [[Mass in B minor]]. The purpose of such palindromic balancing is to focus the listener on the central movement, much as one would focus on the centre of the cross in the crucifixion. Other examples are found in Bach's cantata BWV 4, ''[[Christ lag in Todes Banden, BWV 4|Christ lag in Todes Banden]]'', Handel's ''[[Messiah (Handel)|Messiah]]'' and Fauré's [[Requiem (Fauré)|Requiem]].<ref>{{cite book
+  | author = Charton, Shawn E.
+  | title  = Jennens vs. Handel: Decoding the Mysteries of Messiah
+}}</ref>
+
+A [[table canon]] is a rectangular piece of sheet music intended to be played by two musicians facing each other across a table with the music between them, with one musician viewing the music upside down compared to the other. The result is somewhat like two speakers simultaneously reading the [[Sator Square]] from opposite sides, except that it is typically in two-part polyphony rather than in unison.<ref>{{cite book |title=The Craft of Tonal Counterpoint |last=Benjamin |first=Thomas |year=2003 |publisher=Routledge |location=New York |isbn=0-415-94391-4 |page=120 |url=https://books.google.com/books?id=Nkka1FYg2YYC&pg=PA120 |access-date=14 April 2011}}</ref>
+
+=== Biological structures ===
+{{Main|Palindromic sequence}}
+[[File:DNA palindrome.svg|thumb|600px|right|Palindrome of [[DNA structure]]<br />A: Palindrome, B: Loop, C: Stem]]
+Palindromic motifs are found in most [[genome]]s or sets of [[gene]]tic instructions. The meaning of palindrome in the context of genetics is slightly different, from the definition used for words and sentences. Since the [[DNA]] is formed by two paired strands of [[nucleotides]], and the nucleotides always pair in the same way ([[Adenine]] (A) with [[Thymine]] (T), [[Cytosine]] (C) with [[Guanine]] (G)), a (single-stranded) sequence of DNA is said to be a palindrome if it is equal to its complementary sequence read backward. For example, the sequence {{mono|ACCTAGGT}} is palindromic because its complement is {{mono|TGGATCCA}}, which is equal to the original sequence in reverse complement.
+
+A palindromic [[DNA]] sequence may form a [[stem-loop|hairpin]]. Palindromic motifs are made by the order of the [[nucleotide]]s that specify the complex chemicals ([[protein]]s) that, as a result of those [[genetics|genetic]] instructions, the [[cell (biology)|cell]] is to produce. They have been specially researched in [[bacteria]]l chromosomes and in the so-called Bacterial Interspersed Mosaic Elements (BIMEs) scattered over them. In 2003, a research genome sequencing project discovered that many of the bases on the [[Y chromosome|Y-chromosome]] are arranged as palindromes.<ref>{{Cite web
+ |url          = https://www.genome.gov/11007628/2003-release-mechanism-preserves-y-chromosome-gene/
+ |title        = 2003 Release: Mechanism Preserves Y Chromosome Gene
+ |website      = National Human Genome Research Institute (NHGRI)
+ |language     = en-US
+ |access-date  = 21 November 2017
+ |archive-date = 1 December 2017
+ |archive-url  = https://web.archive.org/web/20171201081105/https://www.genome.gov/11007628/2003-release-mechanism-preserves-y-chromosome-gene/
+ |url-status   = live
+}}</ref> A palindrome structure allows the Y-chromosome to repair itself by bending over at the middle if one side is damaged.
+
+It is believed that palindromes are also found in proteins,<ref name="aac">{{cite journal
+  | author  = Ohno S
+  | title   = Intrinsic evolution of proteins. The role of peptidic palindromes
+  | journal = [[Riv. Biol.]]
+  | volume  = 83
+  | issue   = 2–3
+  | pages   = 287–91, 405–10
+  | year    = 1990
+  | pmid    = 2128128
+}}</ref><ref name="ac">{{cite journal
+ |doi          = 10.1023/A:1023454111924
+ |vauthors     = Giel-Pietraszuk M, Hoffmann M, Dolecka S, Rychlewski J, Barciszewski J
+ |title        = Palindromes in proteins
+ |journal      = J. Protein Chem.
+ |volume       = 22
+ |issue        = 2
+ |pages        = 109–13
+ |date         = February 2003
+ |pmid         = 12760415
+ |s2cid        = 28294669
+ |url          = http://www.kluweronline.com/art.pdf?issn=0277-8033&volume=22&page=109
+ |access-date  = 2011-02-17
+ |archive-date = 2019-12-14
+ |archive-url  = https://web.archive.org/web/20191214234759/https://www.wolterskluwer.nl/
+ |url-status   = dead
+}}</ref> but their role in the protein function is not clearly known. It has  been suggested in 2008<ref name="am">{{cite journal |vauthors=Sheari A, Kargar M, Katanforoush A, etal |year=2008 |title=A tale of two symmetrical tails: structural and functional characteristics of palindromes in proteins |url= |journal=BMC Bioinformatics |volume=9 |article-number=274 |doi=10.1186/1471-2105-9-274 |pmc=2474621 |pmid=18547401 |doi-access=free }}</ref> that the prevalent existence of palindromes in peptides might be related to the prevalence of low-complexity regions in proteins, as palindromes frequently are associated with low-complexity sequences. Their prevalence might also be related to an [[alpha helical]] formation propensity of these sequences,<ref name="am" /> or in formation of protein/protein complexes.<ref name="X">{{cite journal
+  | vauthors = Pinotsis N, Wilmanns M
+  | title    = Protein assemblies with palindromic structure motifs
+  | journal  = Cell. Mol. Life Sci.
+  | volume   = 65
+  | issue    = 19
+  | pages    = 2953–6
+  | date     = October 2008
+  | pmid     = 18791850
+  | doi      = 10.1007/s00018-008-8265-1
+| s2cid = 29569626
+ | pmc= 11131741
+  }}</ref>
+
+=== Computation theory ===
+In [[automata theory]], a [[set (mathematics)|set]] of all palindromes in a given [[alphabet]] is a typical example of a [[formal language|language]] that is [[context-free language|context-free]], but not [[Regular language|regular]]. This means that it is impossible for a [[finite automaton]] to reliably test for palindromes.
+
+In addition, the set of palindromes may not be reliably tested by a [[deterministic pushdown automaton]] which also means that they are not [[LR parser|LR(k)-parsable]] or [[LL parser|LL(k)-parsable]]. When reading a palindrome from left to right, it is, in essence, impossible to locate the "middle" until the entire word has been read completely.
+
+It is possible to find the [[longest palindromic substring]] of a given input string in [[linear time]].<ref name=Jewels>{{citation
+  | last1        = Crochemore
+  | first1       = Maxime
+  | last2        = Rytter
+  | first2       = Wojciech
+  | author2-link = Wojciech Rytter
+  | title        = Jewels of Stringology: Text Algorithms
+  | title-link   = Jewels of Stringology
+  | publisher    = World Scientific
+  | year         = 2003
+  | isbn         = 978-981-02-4897-0
+  | contribution = 8.1 Searching for symmetric words
+  | pages        = 111–114
+}}</ref><ref>{{citation
+  | last         = Gusfield
+  | first        = Dan
+  | contribution = 9.2 Finding all maximal palindromes in linear time
+  | doi          = 10.1017/CBO9780511574931
+  | isbn         = 978-0-521-58519-4
+  | location     = Cambridge
+  | mr           = 1460730
+  | pages        = 197–199
+  | publisher    = Cambridge University Press
+  | title        = Algorithms on Strings, Trees, and Sequences
+  | year         = 1997
+| s2cid = 61800864
+ }}</ref>
+
+The '''palindromic density''' of an infinite word ''w'' over an alphabet ''A'' is defined to be zero if only finitely many prefixes are palindromes; otherwise, letting the palindromic prefixes be of lengths ''n''<sub>''k''</sub> for ''k''=1,2,... we define the density to be
+
+:<math> d_P(w) = \left( { \limsup_{k \rightarrow \infty} \frac{n_{k+1}}{n_k} } \right)^{-1} \ . </math>
+
+Among aperiodic words, the largest possible palindromic density is achieved by the [[Fibonacci word]], which has density 1/φ, where φ is the [[Golden ratio]].<ref name=AB443>{{citation
+  | last1         = Adamczewski
+  | first1        = Boris
+  | last2         = Bugeaud
+  | first2        = Yann
+  | chapter       = 8. Transcendence and diophantine approximation
+  | editor1-last  = Berthé
+  | editor1-link  = Valérie Berthé
+  | editor1-first = Valérie
+  | editor2-last  = Rigo
+  | editor2-first = Michael
+  | title         = Combinatorics, automata, and number theory
+  | location      = Cambridge
+  | publisher     = [[Cambridge University Press]]
+  | series        = Encyclopedia of Mathematics and its Applications
+  | volume        = 135
+  | page          = 443
+  | year          = 2010
+  | isbn          = 978-0-521-51597-9
+  | zbl           = 1271.11073
+}}</ref>
+
+A '''palstar''' is a [[concatenation]] of palindromic strings, excluding the trivial one-letter palindromes – otherwise all strings would be palstars.<ref name=Jewels />
+
+== Notable palindromists ==
+* [[Jon Agee]] (b. 1960)
+* [[Dmitry Avaliani]] (1938–2003)
+* [[Howard W. Bergerson]] (1922–2011)
+* [[Hugo Brandt Corstius]] (1935–2014)
+* [[Noam Dovev]] (b. 1974)
+* [[Anthony Etherin]] (b. 1981)
+* [[Simo Frangén]] (b. 1963)
+* [[Baby Gramps]] (active 1964–present)
+* [[Pasi Heikura]] (b. 1963)
+* [[Peter Hilton]] (1923–2010)
+* [[Hucbald]] (850-930)
+* [[Su Hui (poet)]] (fourth century CE)
+* [[Velimir Khlebnikov]] (1885–1922)
+* [[Ilmar Laaban]] (1921–2000)
+* [[J. A. Lindon]] (c. 1914–1979)
+* [[Demetri Martin]] (b. 1973)
+* [[Rabanus Maurus]] (780-856)
+* [[Leigh Mercer]] (1893–1977) best known for devising the palindrome "A man, a plan, a canal: Panama!"
+* [[Georges Perec]] (1936–1982)
+* [[Mark Saltveit]] (b. 1961)
+* [[Sedulius Scottus]] ((flourished 840–860)
+
+== See also ==
+{{Wikifunctions|Z10096|palindrome check}}
+<!-- New links in alphabetical order please -->
+
+===Related topics===
+
+* [[Alternade]]
+* [[Ambigram]]
+* [[Anadrome]]
+* [[Anagram]]
+* [[Ananym]]
+* [[Anastrophe]]
+* [[Antimetabole]]
+* [[Backmasking]]
+* [[Chiasmus]]
+* [[Constrained writing]]
+* [[Eodermdrome]]
+* [[Mirror writing]]
+* [[Palindromic number]]
+* [[Reversible poem]]
+
+===Related cases===
+* [[List of English palindromic phrases]]
+* [[List of palindromic places]]
+* ''[[Palindroma]]'', a genus of spiders with palindromic species names
+* [[Reciprocal polynomial#Palindromic polynomial|Palindromic polynomial]]
+* [[Yreka, California]], which has the palindromic ''Yreka Bakery'' and ''Yrella Gallery''
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* ''[[Word Ways: The Journal of Recreational Linguistics]]''.  Greenwood Periodicals et al., 1968–. {{ISSN|0043-7980}}.
+* ''[[The Palindromist]]''.  Palindromist Press, 1996–.
+* [[Howard W. Bergerson]]. ''[[Palindromes and Anagrams]]''.  Dover Publications, 1973. {{ISBN|978-0486206646}}.
+* [[Dmitri Borgmann|Dmitri A.Borgman]]. ''[[Language on Vacation]]''. Charles Scribner's Sons, 1965. {{ISBN|978-0006523086}}
+* Stephen J. Chism. ''From A to Zotamorf: The Dictionary of Palindromes''. Word Ways Press, 1992. {{ISBN|978-0963515209}}.
+* Michael Donner. ''I Love Me, Vol. I: S. Wordrow's Palindrome Encyclopedia''.  Algonquin Books, 1996. {{ISBN|978-1565121096}}.
+
+== External links ==
+{{Wiktionary|palindrome|Appendix:English palindromes}}
+{{Wikiquote}}
+{{Commons category|Palindromes}}
+* {{cite EB1911|wstitle=Palindrome|volume=20|page=633}}
+* {{cite web |url= http://edl.ecml.at/LanguageFun/Palindromes/tabid/3104/language/Default.aspx |title= Palindromes |work= Several languages |publisher= [[European Day of Languages]] (EDL) |quote= Celebrated Sep 26 |access-date= 14 July 2017 |archive-date= 28 July 2017 |archive-url= https://web.archive.org/web/20170728001127/http://edl.ecml.at/LanguageFun/Palindromes/tabid/3104/language/Default.aspx |url-status= dead }}
+
+{{Hidden messages}}
+
+{{Authority control}}
+
+[[Category:Palindromes| ]]
