@@ -17,6 +17,7 @@ def validate(input_prompt: str, lower_bound: int, upper_bound: int):
     Also takes as an input the lower and upper bound of the user's response.
     If the user's response is outside of that range, it continues to ask the user to submit 
     another input until the input is correct.
+    Returns the user's response once correct.
     """
 
     answer = int(input(input_prompt))
